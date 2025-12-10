@@ -1,0 +1,83 @@
+
+
+body{
+    padding: 2rem;
+    min-height: 100vh;
+    background-color: #290758;
+    box-sizing: border-box;
+    font-family: "Georgia", serif;
+    color: #f2d4f2;
+}
+
+h1, h2{
+  font-family: "Georgia", serif;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.main-subtitle{
+    text-align: center;
+}
+
+
+p{
+  font-family: "Georgia", serif;
+  text-align: justify;
+  margin: 5px 0;
+  color: #E0B0FF;
+
+}
+
+h1{
+  color: #E0B0FF;
+  font-size: 50px;
+  font-weight: 700;
+  text-shadow:
+    0 0 6px rgba(138,43,226,0.7),
+    0 0 14px rgba(138,43,226,0.4);
+}
+
+h2{
+  font-size: 30px;
+  font-weight: 700;
+  color: #cb7eff;
+  text-shadow:
+    0 0 6px rgba(138,43,226,0.7),
+    0 0 14px rgba(138,43,226,0.4);
+}
+
+.image{
+  text-align: center;
+  margin: 3rem auto;
+  color: #E0B0FF;
+}
+
+.image img{
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(138,43,226,0.5);
+}
+
+.bold{
+  font-weight: bold;
+  color: #e772e7;
+}
+
+.buy-books{
+    text-align: left;   
+    color: #ff2bff;
+}
+
+a{
+    color: #ff2bff;
+    text-decoration: none;
+    font-style: italic;
+}
+
+.quotes-container{
+    margin: 2rem 0;
+    padding: 1rem;
+    border-left: 4px solid #cb7eff;
+    background-color: rgba(138,43,226,0.1);
+}
